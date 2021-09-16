@@ -9,7 +9,6 @@ use App\Http\Controllers\Backend\ProductController;
 use App\Http\Controllers\User\WishlistController;
 use App\Http\Controllers\User\CartPageController;
 use App\Http\Controllers\User\checkoutController;
-// use App\Http\Controllers\User\CardController;
 use App\Http\Controllers\User\CashController;
 use App\Http\Controllers\Backend\ReportController;
 use App\Http\Controllers\Backend\ShippingController;
